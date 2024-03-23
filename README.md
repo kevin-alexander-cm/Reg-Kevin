@@ -1,0 +1,1 @@
+Cree un mini software de escritorio que permite guardar registros de usuarios. es básicamente un C-R-U-D. estaba realizando una tarea repetitiva así que cree esto para que fuera menos tedioso. lo subi en ejecutable y tambien solo el archivo para que puedan ver el código y realizarle cambios para su gusto.si le ayuda alguien bien por eso. 
